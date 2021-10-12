@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = engch28@gmail.com
+	name = Joshua Eng
